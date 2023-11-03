@@ -1,6 +1,6 @@
 # VCS Repository README 🚀
 
-Welcome to our collaborative project repository! This README provides step-by-step instructions on how to use VSC :
+Welcome to our collaborative project repository! This README provides step-by-step instructions on how to use VSC
 
 ## 1. Creating a repository on GitHub 🌐
 
